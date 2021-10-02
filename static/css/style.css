@@ -1,0 +1,17 @@
+* {
+    
+    font-family: 'Oxygen', 'sans-serif';
+    /* color:#616971; */
+}
+
+.header h1{
+    font-weight: 800; color: aliceblue;
+}
+
+.margin-neg-3 {
+    margin-top: -3rem !important;
+}
+
+.bubble-width {
+    width: 95%;
+}
